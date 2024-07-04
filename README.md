@@ -1,6 +1,6 @@
 # Ruchika Ahuja
 
-Bienvenido a mi portafolio. Aquí podrás encontrar información sobre mis proyectos, habilidades y enlaces a mis perfiles profesionales.
+Aquí podrás encontrar información sobre mis proyectos, habilidades y enlaces a mis perfiles profesionales.
 
 ## Tabla de Contenidos
 
