@@ -1,7 +1,7 @@
 # Ruchika Ahuja
-
+<p style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
 Aquí podrás encontrar información sobre mis proyectos, habilidades y enlaces a mis perfiles profesionales.
-
+</p>
 ## Tabla de Contenidos
 
 - [Sobre Mí](#sobre-mí)
