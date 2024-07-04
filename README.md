@@ -60,8 +60,8 @@ Aquí están algunos de los proyectos en los que he trabajado:
 
 Puedes contactarme a través de los siguientes medios:
 
-- **LinkedIn:** [Enlace a tu perfil de LinkedIn](www.linkedin.com/in/ruchika-ahuja-purswani-449963273)
-- **Correo Electrónico:** [tuemail@example.com](mailto:ruchikaahujapurswani@gmail.com)
-- **GitHub:** [Enlace a tu perfil de GitHub](https://github.com/ruchiii14)
+- **LinkedIn:** [www.linkedin.com/in/ruchika-ahuja-purswani-449963273](www.linkedin.com/in/ruchika-ahuja-purswani-449963273)
+- **Correo Electrónico:** [ruchikaahujapurswani@gmail.com](mailto:ruchikaahujapurswani@gmail.com)
+- **GitHub:** [https://github.com/ruchiii14](https://github.com/ruchiii14)
 
 Estoy abierta a oportunidades de colaboración y siempre dispuesta a aprender y enfrentar nuevos desafíos.
