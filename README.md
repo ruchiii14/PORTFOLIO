@@ -24,18 +24,11 @@ Aquí están algunos de los proyectos en los que he trabajado:
 - **Enlace al repositorio:** [Mulesoft Control Panel](https://github.com/ruchiii14/MulesoftControlPanel)
 - **Enlace visualización proyecto** [https://ruchiii14.github.io/MulesoftControlPanel/]( https://ruchiii14.github.io/MulesoftControlPanel/)
 
-### Proyecto 2: 
+### Proyecto 2: Proyecto de Generación Automática de GUI y Lógica de Negocio desde Diagramas de Clases Web
 
-- **Descripción:** Breve descripción del proyecto.
-- **Tecnologías utilizadas:** [Tecnologías utilizadas, e.g., Python, Django, etc.]
-- **Enlace al repositorio:** [Enlace al repositorio, e.g., GitHub](https://github.com/usuario/proyecto2)
-- **Enlace al proyecto en producción:** [Enlace al proyecto en producción, si aplica](https://mi-proyecto2.com)
-
-### Proyecto 3
-- **Descripción:** Breve descripción del proyecto.
-- **Tecnologías utilizadas:** [Tecnologías utilizadas, e.g., Java, Spring Boot, etc.]
-- **Enlace al repositorio:** [Enlace al repositorio, e.g., GitHub](https://github.com/usuario/proyecto3)
-- **Enlace al proyecto en producción:** [Enlace al proyecto en producción, si aplica](https://mi-proyecto3.com)
+- **Descripción:** Este proyecto tiene como objetivo desarrollar una herramienta que permite modelar diagramas de clases web específicos del dominio, utilizando Visual Studio Code 2019, y aplicar el enfoque de Desarrollo Dirigido por Modelos (MDD). La herramienta generará automáticamente la interfaz gráfica de usuario (GUI) y la lógica del negocio de aplicaciones en código HTML y Java.
+- **Tecnologías utilizadas:** Visual Code Studio 2019
+- **Enlace al repositorio:** [https://github.com/ruchiii14/DSLTools-DiagramaDeClases](https://github.com/ruchiii14/DSLTools-DiagramaDeClases)
 
 ## Habilidades
 
