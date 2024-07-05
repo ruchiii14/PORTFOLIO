@@ -19,20 +19,19 @@ Aquí están algunos de los proyectos en los que he trabajado:
 
 ### Panel de Control para Restaurantes usando integración de APIs (MuleSoft)
 
-- **Descripción:** Breve descripción del proyecto.
-- **Tecnologías utilizadas:** []
-- **Enlace al repositorio:** [Enlace al repositorio, e.g., GitHub](https://github.com/usuario/proyecto1)
-- **Enlace visualización proyecto** [Enlace al proyecto en producción, si aplica](https://mi-proyecto1.com)
+- **Descripción:** El objetivo del proyecto es proporcionar un panel de control integral para la gestión de un restaurante. A través de este panel, los usuarios pueden gestionar de manera centralizada el stock, las redes sociales y otros aspectos operativos del restaurante.
+- **Tecnologías utilizadas:** AnyPoint Studio
+- **Enlace al repositorio:** [Mulesoft Control Panel](https://github.com/ruchiii14/MulesoftControlPanel)
+- **Enlace visualización proyecto** [https://ruchiii14.github.io/MulesoftControlPanel/]( https://ruchiii14.github.io/MulesoftControlPanel/)
 
-### [Nombre del Proyecto 2]
+### Proyecto 2: 
 
 - **Descripción:** Breve descripción del proyecto.
 - **Tecnologías utilizadas:** [Tecnologías utilizadas, e.g., Python, Django, etc.]
 - **Enlace al repositorio:** [Enlace al repositorio, e.g., GitHub](https://github.com/usuario/proyecto2)
 - **Enlace al proyecto en producción:** [Enlace al proyecto en producción, si aplica](https://mi-proyecto2.com)
 
-### [Nombre del Proyecto 3]
-
+### Proyecto 3
 - **Descripción:** Breve descripción del proyecto.
 - **Tecnologías utilizadas:** [Tecnologías utilizadas, e.g., Java, Spring Boot, etc.]
 - **Enlace al repositorio:** [Enlace al repositorio, e.g., GitHub](https://github.com/usuario/proyecto3)
