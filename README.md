@@ -17,12 +17,12 @@ Soy una ingeniera de software apasionada por el desarrollo y la tecnología. Act
 
 Aquí están algunos de los proyectos en los que he trabajado:
 
-### [Nombre del Proyecto 1]
+### Panel de Control para Restaurantes usando integración de APIs (MuleSoft)
 
 - **Descripción:** Breve descripción del proyecto.
-- **Tecnologías utilizadas:** [Tecnologías utilizadas, e.g., React, Node.js, etc.]
+- **Tecnologías utilizadas:** []
 - **Enlace al repositorio:** [Enlace al repositorio, e.g., GitHub](https://github.com/usuario/proyecto1)
-- **Enlace al proyecto en producción:** [Enlace al proyecto en producción, si aplica](https://mi-proyecto1.com)
+- **Enlace visualización proyecto** [Enlace al proyecto en producción, si aplica](https://mi-proyecto1.com)
 
 ### [Nombre del Proyecto 2]
 
